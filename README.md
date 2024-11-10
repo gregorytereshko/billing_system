@@ -31,7 +31,7 @@ Before you begin, ensure that you have the following software installed on your 
 
   ```bash
   gem install bundler
-- ```
+  ```
 
 ## 2. Project Structure
 The codebase is organized as follows:
@@ -79,7 +79,7 @@ The codebase is organized as follows:
 
 If you’re working with an existing repository, clone it:
 ```bash
-git clone <repository_url> rebilling_system
+git clone https://github.com/gregorytereshko/billing_system.git rebilling_system
 cd rebilling_system
 ```
 ## 4. Installing Dependencies
