@@ -93,7 +93,7 @@ bundle install
 
 **a. Start the Payment Gateway API**
 
-The payment gateway API is simulated using a Sinatra application located in lib/payment_gateway_api.rb. You need to start this server first.
+The payment gateway API is simulated using a Sinatra application located in payment_gateway_api.rb. You need to start this server first.
 
 **In Terminal Tab 1:**
 ```
